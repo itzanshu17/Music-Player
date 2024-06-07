@@ -1,8 +1,6 @@
 # Music player
  Plays music for 30sec. 
-# v-music
-
-v-music is a web application that allows users to search for music using the Spotify API and play 30-second song previews. It is built with React, Bootstrap, and the Spotify Web API ( throught nocodeapi ).
+Music player is a web application that allows users to search for music using the Spotify API and play 30-second song previews. It is built with React, Bootstrap, and the Spotify Web API ( throught nocodeapi ).
 
 ## Installation
 
