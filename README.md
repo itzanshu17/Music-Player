@@ -6,7 +6,7 @@ Music player is a web application that allows users to search for music using th
 
 To run this project locally, follow these steps:
 
-1. Clone this repository using `git clone https://github.com/vishesh-pandey/v-music.git`
+1. Clone this repository 
 2. Install dependencies using `npm install`
 3. Start the development server using `npm start`
 
